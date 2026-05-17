@@ -1,0 +1,29 @@
+author: Sagnik Patra
+dataset_path: C:\Users\NXTWAVE\Downloads\Smart Agricultural Market Intelligence System\megambmarketname_n.xls
+features_used:
+- district_name_encoded
+- block_name_encoded
+- market_name_encoded
+- district_market_count
+- block_market_count
+- market_name_length
+- block_name_length
+- district_name_length
+- market_score
+models:
+  gradient_boosting: market_gradient_boosting_model.pkl
+  kmeans: market_kmeans_model.pkl
+  neural_network: market_intelligence_model.h5
+  random_forest: market_random_forest_model.pkl
+output_directory: C:\Users\NXTWAVE\Downloads\Smart Agricultural Market Intelligence
+  System
+outputs:
+  accuracy_graph: market_accuracy_graph.png
+  comparison_graph: market_comparison_graph.png
+  heatmap: market_heatmap.png
+  prediction_csv: market_prediction.csv
+  prediction_graph: market_prediction_graph.png
+  result_csv: market_result.csv
+  result_graph: market_result_graph.png
+project_name: Smart Agricultural Market Intelligence System
+target: market_category

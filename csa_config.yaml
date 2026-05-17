@@ -1,0 +1,34 @@
+all_features:
+- district_name_encoded
+- block_name_encoded
+- market_name_encoded
+- district_market_count
+- block_market_count
+- market_name_length
+- block_name_length
+- district_name_length
+- market_score
+author: Sagnik Patra
+dataset_path: C:\Users\NXTWAVE\Downloads\Smart Agricultural Market Intelligence System\megambmarketname_n.xls
+models:
+  gradient_boosting: csa_gradient_boosting_model.pkl
+  kmeans: csa_kmeans_model.pkl
+  neural_network: csa_market_intelligence_model.h5
+  random_forest: csa_random_forest_model.pkl
+optimization_algorithm: Clonal Selection Algorithm
+output_directory: C:\Users\NXTWAVE\Downloads\Smart Agricultural Market Intelligence
+  System
+outputs:
+  accuracy_graph: csa_accuracy_graph.png
+  comparison_graph: csa_comparison_graph.png
+  confusion_matrix: csa_confusion_matrix.png
+  heatmap: csa_heatmap.png
+  optimization_graph: csa_optimization_graph.png
+  prediction_csv: csa_prediction.csv
+  prediction_graph: csa_prediction_graph.png
+  result_csv: csa_result.csv
+  result_graph: csa_result_graph.png
+project_name: Smart Agricultural Market Intelligence System
+selected_features:
+- market_score
+target: market_category

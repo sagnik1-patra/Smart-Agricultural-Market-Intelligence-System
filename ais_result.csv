@@ -1,0 +1,4 @@
+Model,Accuracy
+AIS + Random Forest,1.0
+AIS + Gradient Boosting,1.0
+AIS + Neural Network,1.0

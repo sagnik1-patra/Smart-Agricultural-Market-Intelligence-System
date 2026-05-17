@@ -1,0 +1,63 @@
+district_name,block_name,market_name,district_market_count,block_market_count,market_name_length,block_name_length,district_name_length,market_score,market_category,district_name_encoded,block_name_encoded,market_name_encoded,market_category_encoded,ais_market_cluster,ais_rf_prediction_encoded,ais_gb_prediction_encoded,ais_nn_prediction_encoded,ais_rf_prediction,ais_gb_prediction,ais_nn_prediction
+East Garo Hills,Dambo Rongjeng,Rongjeng,9,1,8,14,15,4.8999999999999995,Low,0,6,42,1,0,1,1,1,Low,Low,Low
+East Garo Hills,Kharkuta,Adokgiri,9,2,8,8,15,5.3999999999999995,Medium,0,8,1,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Kharkuta,Kharkutta,9,2,9,8,15,5.5,Medium,0,8,17,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Resubelpara,Bajengdoba,9,2,10,11,15,5.6,Medium,0,22,3,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Resubelpara,Mendipathar,9,2,11,11,15,5.699999999999999,Medium,0,22,29,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Samanda,Rongsak,9,3,7,7,15,5.8,Medium,0,25,44,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Samanda,Samanda,9,3,7,7,15,5.8,Medium,0,25,45,2,2,2,2,2,Medium,Medium,Medium
+East Garo Hills,Samanda,Williamnagar,9,3,12,7,15,6.3,High,0,25,61,0,2,0,0,0,High,High,High
+East Garo Hills,Songsak,Songsak,9,1,7,7,15,4.8,Low,0,28,52,1,0,1,1,1,Low,Low,Low
+East Khasi Hills,Laitkroh,Laitlyngkot,11,1,11,8,16,6.0,Medium,1,10,20,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Mawphlang,Mawngap,11,2,7,9,16,6.1000000000000005,Medium,1,14,26,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Mawphlang,Sohiong,11,2,7,9,16,6.1000000000000005,Medium,1,14,51,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Mawryngkneng,Mawryngkneng,11,2,12,12,16,6.6000000000000005,High,1,15,27,0,1,0,0,0,High,High,High
+East Khasi Hills,Mawryngkneng,Smit,11,2,4,12,16,5.800000000000001,Medium,1,15,50,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Mawsynram,Mawsynram,11,2,9,9,16,6.300000000000001,High,1,17,28,0,2,0,0,0,High,High,High
+East Khasi Hills,Mawsynram,Tyrsad,11,2,6,9,16,6.0,Medium,1,17,55,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Mylliem,Iewduh(Shillong),11,2,16,7,16,7.0,High,1,18,12,0,1,0,0,0,High,High,High
+East Khasi Hills,Mylliem,Mawiong Regulated Market,11,2,24,7,16,7.800000000000001,High,1,18,24,0,1,0,0,0,High,High,High
+East Khasi Hills,Pynursla,Pynursla,11,1,8,8,16,5.7,Medium,1,20,35,2,2,2,2,2,Medium,Medium,Medium
+East Khasi Hills,Shella-Bholaganj,Shella,11,1,6,16,16,5.5,Medium,1,27,48,2,2,2,2,2,Medium,Medium,Medium
+Jaintia Hills,Amlarem,Dawki,9,1,5,7,13,4.6,Low,2,0,9,1,0,1,1,1,Low,Low,Low
+Jaintia Hills,Khliehriat,Khliehriat,9,2,10,10,13,5.6,Medium,2,9,18,2,2,2,2,2,Medium,Medium,Medium
+Jaintia Hills,Khliehriat,Umkiang,9,2,7,10,13,5.3,Low,2,9,57,1,2,1,1,2,Low,Low,Medium
+Jaintia Hills,Laskein,Raliang,9,2,7,7,13,5.3,Low,2,11,37,1,2,1,1,2,Low,Low,Medium
+Jaintia Hills,Laskein,Shangpung,9,2,9,7,13,5.5,Medium,2,11,47,2,2,2,2,2,Medium,Medium,Medium
+Jaintia Hills,Thadlaskein,Jowai,9,4,5,11,13,6.1,Medium,2,29,14,2,2,2,2,2,Medium,Medium,Medium
+Jaintia Hills,Thadlaskein,Khanduli,9,4,8,11,13,6.3999999999999995,High,2,29,16,0,2,0,0,0,High,High,High
+Jaintia Hills,Thadlaskein,Nartiang,9,4,8,11,13,6.3999999999999995,High,2,29,30,0,2,0,0,0,High,High,High
+Jaintia Hills,Thadlaskein,Wahiajer,9,4,8,11,13,6.3999999999999995,High,2,29,60,0,2,0,0,0,High,High,High
+Ri-Bhoi,Jirang,Jirang,8,2,6,6,7,4.800000000000001,Low,3,7,13,1,0,1,1,1,Low,Low,Low
+Ri-Bhoi,Jirang,Patharkhmah,8,2,11,6,7,5.300000000000001,Medium,3,7,33,2,2,1,1,2,Low,Low,Medium
+Ri-Bhoi,Umling,20th Mile,8,4,9,6,7,6.1000000000000005,Medium,3,31,0,2,2,2,2,2,Medium,Medium,Medium
+Ri-Bhoi,Umling,Byrnihat,8,4,8,6,7,6.0,Medium,3,31,5,2,2,2,2,2,Medium,Medium,Medium
+Ri-Bhoi,Umling,Nongpoh,8,4,7,6,7,5.9,Medium,3,31,31,2,2,2,2,2,Medium,Medium,Medium
+Ri-Bhoi,Umling,Umden,8,4,5,6,7,5.7,Medium,3,31,56,2,2,2,2,2,Medium,Medium,Medium
+Ri-Bhoi,Umsning,Umroi,8,2,5,7,7,4.7,Low,3,32,58,1,0,1,1,1,Low,Low,Low
+Ri-Bhoi,Umsning,Umsning,8,2,7,7,7,4.9,Low,3,32,59,1,0,1,1,1,Low,Low,Low
+South Garo Hills,Baghmara,Emangiri,5,2,8,8,16,3.8,Low,4,1,10,1,0,1,1,1,Low,Low,Low
+South Garo Hills,Baghmara,Sibbari,5,2,7,8,16,3.7,Low,4,1,49,1,0,1,1,1,Low,Low,Low
+South Garo Hills,Chokpot,Chokpot,5,1,7,7,16,3.2,Low,4,3,6,1,0,1,1,1,Low,Low,Low
+South Garo Hills,Ronggara,Maheshkhola,5,2,11,8,16,4.1,Low,4,23,22,1,0,1,1,1,Low,Low,Low
+South Garo Hills,Ronggara,Ronggara,5,2,8,8,16,3.8,Low,4,23,41,1,0,1,1,1,Low,Low,Low
+West Garo Hills,Betasing,Ampati,12,1,6,8,15,5.9,Medium,5,2,2,2,2,2,2,2,Medium,Medium,Medium
+West Garo Hills,Dadenggiri,Dadenggiri,12,2,10,10,15,6.800000000000001,High,5,4,7,0,1,0,0,0,High,High,High
+West Garo Hills,Dadenggiri,Romagal,12,2,7,10,15,6.500000000000001,High,5,4,40,0,1,0,0,0,High,High,High
+West Garo Hills,Dalu,Dalu,12,2,4,4,15,6.200000000000001,High,5,5,8,0,2,0,0,0,High,High,High
+West Garo Hills,Dalu,Purakhasia,12,2,10,4,15,6.800000000000001,High,5,5,34,0,1,0,0,0,High,High,High
+West Garo Hills,Rongram,Rongram,12,2,7,7,15,6.500000000000001,High,5,24,43,0,1,0,0,0,High,High,High
+West Garo Hills,Rongram,Tura,12,2,4,7,15,6.200000000000001,High,5,24,54,0,2,0,0,0,High,High,High
+West Garo Hills,Selsella,Garobadha Regulated Market,12,1,26,8,15,7.9,High,5,26,11,0,1,0,0,0,High,High,High
+West Garo Hills,Tikrikilla,Raksamgiri,12,2,10,10,15,6.800000000000001,High,5,30,36,0,1,0,0,0,High,High,High
+West Garo Hills,Tikrikilla,Tikrikilla,12,2,10,10,15,6.800000000000001,High,5,30,53,0,1,0,0,0,High,High,High
+West Garo Hills,Zikzak,Kalaichar,12,2,9,6,15,6.700000000000001,High,5,33,15,0,1,0,0,0,High,High,High
+West Garo Hills,Zikzak,Mahendraganj,12,2,12,6,15,7.000000000000001,High,5,33,21,0,1,0,0,0,High,High,High
+West Khasi Hills,Mairang,Kynshi,8,2,6,7,16,4.800000000000001,Low,6,12,19,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Mairang,Mairang,8,2,7,7,16,4.9,Low,6,12,23,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Mawkyrwat,Mawkyrwat,8,1,9,9,16,4.6000000000000005,Low,6,13,25,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Mawshynrut,Riangdo,8,2,7,10,16,4.9,Low,6,16,39,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Mawshynrut,Shallang,8,2,8,10,16,5.0,Low,6,16,46,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Nongstoin,Nongstoin,8,2,9,9,16,5.1000000000000005,Low,6,19,32,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Nongstoin,Rambrai,8,2,7,9,16,4.9,Low,6,19,38,1,0,1,1,1,Low,Low,Low
+West Khasi Hills,Ranikor,Balat,8,1,5,7,16,4.2,Low,6,21,4,1,0,1,1,1,Low,Low,Low

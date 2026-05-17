@@ -1,0 +1,14 @@
+{
+    "optimization_algorithm": "Artificial Immune System",
+    "ais_best_fitness": 0.9988888888888889,
+    "selected_features": [
+        "market_score"
+    ],
+    "random_forest_accuracy": 1.0,
+    "gradient_boosting_accuracy": 1.0,
+    "neural_network_accuracy": 1.0,
+    "total_records": 62,
+    "total_districts": 7,
+    "total_blocks": 34,
+    "total_markets": 62
+}
