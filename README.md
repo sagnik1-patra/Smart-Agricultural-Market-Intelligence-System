@@ -1,6 +1,6 @@
 # 🛒 Smart Agricultural Market Intelligence System
 
-## 🧠 Market Category Prediction using Machine Learning & Bio-Inspired Optimization
+## 🧠 Market Category Prediction using Machine Learning & Bio-Inspired Optimization 
 
 ---
 
